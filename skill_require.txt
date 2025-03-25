@@ -1,0 +1,73 @@
+intermediate python, intermediate sql & command line
+intermediate programming
+python, sql & statistics
+python & sql
+intermediate python
+prior experience with python, css/html, and git
+basic knowledge of machine learning algorithms and python programming
+basic understanding of data types
+prior experience with python and machine learning
+python & mathematics
+html & css, javascript, asynchronous javascript (ajax) and web forms
+python, c++, linear algebra and calculus
+intermediate knowledge of java
+experience with sql, python, azure, and github
+basic algebra and programming knowledge
+prior data analysis & product management experience recommended
+basic python
+prior product management experience recommended
+knowledge of basic html, css, and javascript
+object-oriented programming
+experience with python, probability, machine learning, & deep learning.
+python, statistics, machine learning, & deep learning
+python and basic algebra
+mathematics & programming
+experience with object-oriented programming
+basic programming concepts like variables, loops and conditionals.
+intermediate javascript
+intermediate python, sql, and basics of etl/data pipelines
+microsoft excel
+programming & mathematics
+html, css, basic javascript, json
+basic knowledge of network connectivity and os fundamentals
+intermediate python, sql, and experience with etl
+intermediate c++, calculus, and probability
+algebra, descriptive statistics, and excel
+basic javascript
+experience with cloud computing, programming, and aws
+statistics, probability, and business experience
+intermediate python, and experience with machine learning
+algebra, calculus, statistics, & python
+professional fluency in english
+http, python, git, linux, docker
+basic data analysis
+experience with cloud computing, programming and microsoft azure
+linux, networking, programming and window os
+python and sql
+prior experience with python, machine learning, and statistics
+basics of python, experience configuring aws and linux environments
+python or java, bash or powershell, linux, unix shell and sql
+intermediate python, familiarity with linux shell scripting and cloud concepts
+experience with python, sql, and security fundamentals
+intermediate programming experience, familiarity with sql databases and git
+basic computer programming
+understanding of data privacy regulations and cybersecurity best practices
+word processors, spreadsheets, presentation tools
+linux and aws
+linux and azure
+python, microsoft azure, json and rest programming semantics
+familiarity with basic cybersecurity concepts and practices
+ai & machine learning fundamentals
+sql basics
+scientific reading skills
+data science fundamentals
+basic programming
+information searching skills
+discrete mathematics
+advanced mathematics, statistics
+computer literacy
+general computer knowledge
+python, statistics, machine learning, pandas, sql
+aws, azure, docker, kubernetes, terraform
+networking, linux, cryptography, ethical hacking, security analysis
+java, c++, git, oop, algorithms
